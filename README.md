@@ -27,7 +27,7 @@
 ![me](https://i.gifer.com/embedded/download/W3Za.gif)
 <div align="center">
 
-![Demo](https://github.com/SkorEgor/PhysicalAnimation_BallFlight/blob/master/Pictures/bandicam%202022-07-18%2015-54-09-616%20(1).gif)
+![Demo](https://github.com/SkorEgor/PhysicalAnimation_BallFlight/blob/writingREADME/Pictures/bandicam%202022-07-18%2015-54-09-616%20(1).gif)
 </div>
 
 ## Демонстрация
