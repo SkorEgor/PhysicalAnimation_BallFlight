@@ -21,10 +21,8 @@
 
 ## О проекте
 Проект моделирует полет маленького мяча через отверстие в стене так, чтобы он попал в лунку, учитывая сопротивление воздуха с силой, зависящее от скорости в квадрате. Расчет траектории возможен только численными методами.
-![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
-<div align="center">
 
-![Demo](https://github.com/SkorEgor/PhysicalAnimation_BallFlight/blob/master/Pictures/bandicam%202022-07-18%2015-54-09-616%20(1).gif)
+![Demo](https://github.com/SkorEgor/PhysicalAnimation_BallFlight/blob/main/Pictures/bandicam%202022-07-18%2015-54-09-616%20(1).gif)
 </div>
 
 ## Демонстрация
